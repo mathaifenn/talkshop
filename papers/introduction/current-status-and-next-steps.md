@@ -2,6 +2,33 @@
 ## Current Status and Next Steps
 ### Working Project Status Document
 
+Version: Current Articulation  
+Status: Operational / Evolving  
+Last Major Revision: 2026-05-18
+
+Purpose:
+This document is a high-level operational and conceptual orientation layer intended to bootstrap AI conversations and summarize the current state of the Talk Shop ecosystem.
+
+Scope:
+This document intentionally summarizes several conceptual domains. Over time, many of these sections will evolve into independent standalone documents.
+
+Related Documents:
+- TalkShop_Foundational_Implementation_Architecture.md
+
+Influenced By:
+- Talk Shop foundational philosophy
+- Repository implementation work
+- GitHub Pages planning
+- Modular systems discussions
+
+Open Questions:
+- Refinement of AI Leadership terminology
+- Public vs private repository boundaries
+- GitHub Pages structure and presentation
+- Long-term project taxonomy
+
+---
+
 # 1. Purpose of this Document
 
 This document describes:
