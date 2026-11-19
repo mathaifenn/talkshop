@@ -1,0 +1,12 @@
+{
+  "name": "talkshop-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static, JavaScript-free Talk Shop website",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
