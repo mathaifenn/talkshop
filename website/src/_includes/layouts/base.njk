@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ description or 'Consulting and experiential leadership programmes by Dr. Mathai B. Fenn.' }}">
+  <meta name="color-scheme" content="dark light">
+  <title>{{ title or 'The Talk Shop' }} | Dr. Mathai B. Fenn</title>
+  <link rel="stylesheet" href="/styles/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="/">The Talk Shop</a>
+    <nav aria-label="Main navigation">
+      <a href="/">Home</a>
+      <a href="/#programmes">Programmes</a>
+      <a href="/#about">About</a>
+      <a href="mailto:mathai@thetalkshop.in">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page-shell">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <span>The Talk Shop</span>
+    <span>Dr. Mathai B. Fenn · Kottayam, Kerala</span>
+  </footer>
+</body>
+</html>
